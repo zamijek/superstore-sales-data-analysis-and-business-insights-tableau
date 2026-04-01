@@ -1,7 +1,6 @@
 # 📊 Superstore Sales Dashboard Analysis
-
 Interactive sales dashboard analysis using Tableau with business insights and strategic recommendations based on Superstore dataset.
----
+
 ## 📌 Project Overview
 Proyek ini bertujuan untuk menganalisis data penjualan menggunakan dashboard interaktif untuk mendapatkan insight bisnis dan memberikan rekomendasi strategis.
 Dataset yang digunakan adalah Superstore Dataset yang umum digunakan untuk latihan data analysis.
@@ -21,7 +20,7 @@ Dataset yang digunakan adalah Superstore Dataset yang umum digunakan untuk latih
 
 ## 📷 Dashboard Preview
 Upload screenshot dashboard kamu di sini
----
+
 ## 🔍 Key Insights & Recommendations
 💰 Sales Distribution (Category)
 Insight:
