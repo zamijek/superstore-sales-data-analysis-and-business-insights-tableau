@@ -23,8 +23,6 @@ Dataset yang digunakan adalah Superstore Dataset yang umum digunakan untuk latih
 
 ## 🔍 Key Insights & Recommendations
 
-## 🔍 Key Insights & Recommendations
-
 ### 💰 Sales Distribution (Category)
 **Insight:**
 - Total sales mencapai 1.11B, dengan kontribusi terbesar berasal dari kategori Furniture, disusul Technology, sementara Office Supplies memiliki performa terendah.
