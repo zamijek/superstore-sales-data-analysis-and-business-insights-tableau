@@ -22,54 +22,64 @@ Dataset yang digunakan adalah Superstore Dataset yang umum digunakan untuk latih
 ![Dashboard Preview](images/Superstore.png)
 
 ## 🔍 Key Insights & Recommendations
-💰 Sales Distribution (Category)
-Insight:
+
+### 💰 Sales Distribution (Category)
+**Insight:**
 - Total sales mencapai 1.11B, dengan kontribusi terbesar berasal dari kategori Furniture, disusul Technology, sementara Office Supplies memiliki performa terendah.
-Recommendation:
-- Tingkatkan penjualan Office Supplies melalui bundling produk
-- Berikan diskon khusus
-- Lakukan cross-selling dengan kategori yang lebih laku
+**Recommendation:**
+- Tingkatkan penjualan Office Supplies melalui bundling produk  
+- Berikan diskon khusus  
+- Lakukan cross-selling dengan kategori yang lebih laku  
 
-📈 Sales Trend (Time Series)
-Insight:
+---
+
+### 📈 Sales Trend (Time Series)
+**Insight:**
 - Penjualan menunjukkan pola fluktuatif dengan puncak pada September dan November, serta penurunan signifikan pada Februari dan Oktober.
-Recommendation:
-- Optimalkan high season dengan stok dan promosi
-- Jalankan campaign khusus di low season (diskon, flash sale)
-- Buat strategi penjualan yang lebih stabil sepanjang tahun
+**Recommendation:**
+- Optimalkan high season dengan stok dan promosi  
+- Jalankan campaign khusus di low season (diskon, flash sale)  
+- Buat strategi penjualan yang lebih stabil sepanjang tahun  
 
-🏆 Top Sub-Category
-Insight:
+---
+
+### 🏆 Top Sub-Category
+**Insight:**
 - Produk seperti Bookcases, Chairs, dan Phones menjadi kontributor utama penjualan, sementara beberapa produk lain memiliki performa yang jauh lebih rendah.
-Recommendation:
-- Fokus pada produk best seller (upselling & stok)
-- Evaluasi produk dengan performa rendah
-- Pertimbangkan promosi atau pengurangan produk yang tidak optimal
+**Recommendation:**
+- Fokus pada produk best seller (upselling & stok)  
+- Evaluasi produk dengan performa rendah  
+- Pertimbangkan promosi atau pengurangan produk yang tidak optimal  
 
-🌍 Sales per State
-Insight:
+---
+
+### 🌍 Sales per State
+**Insight:**
 - Penjualan didominasi oleh wilayah seperti California dan Texas, sementara wilayah lainnya masih rendah.
-Recommendation:
-- Lakukan ekspansi pasar ke wilayah dengan penjualan rendah
-- Gunakan strategi pemasaran lokal
-- Terapkan geo-targeting untuk meningkatkan awareness
+**Recommendation:**
+- Lakukan ekspansi pasar ke wilayah dengan penjualan rendah  
+- Gunakan strategi pemasaran lokal  
+- Terapkan geo-targeting untuk meningkatkan awareness  
 
-👥 Customer Segment
-Insight:
+---
+
+### 👥 Customer Segment
+**Insight:**
 - Segment Consumer mendominasi lebih dari 50% total penjualan, sedangkan Corporate dan Home Office masih belum optimal.
-Recommendation:
-- Kembangkan strategi untuk segmen Corporate
-- Tawarkan diskon bulk order
-- Bangun kerja sama B2B
+**Recommendation:**
+- Kembangkan strategi untuk segmen Corporate  
+- Tawarkan diskon bulk order  
+- Bangun kerja sama B2B  
 
-🚚 Shipping Mode
-Insight:
-- Sebagian besar pelanggan menggunakan Standard Class, sementara Same Day sangat rendah
-Recommendation:
-- Promosikan layanan pengiriman cepat
-- Berikan diskon ongkir untuk Same Day / First Class
-- Edukasi pelanggan tentang value pengiriman cepat
+---
 
+### 🚚 Shipping Mode
+**Insight:**
+- Sebagian besar pelanggan menggunakan Standard Class, sementara Same Day sangat rendah.
+**Recommendation:**
+- Promosikan layanan pengiriman cepat  
+- Berikan diskon ongkir untuk Same Day / First Class  
+- Edukasi pelanggan tentang value pengiriman cepat  
 ## 💡 Conclusion
 - Secara keseluruhan, bisnis memiliki peluang besar untuk berkembang melalui:
 - Optimalisasi kategori dengan performa rendah
