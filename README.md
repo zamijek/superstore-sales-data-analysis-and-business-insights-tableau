@@ -70,7 +70,7 @@ Recommendation:
 - Berikan diskon ongkir untuk Same Day / First Class
 - Edukasi pelanggan tentang value pengiriman cepat
 
-💡 Conclusion
+## 💡 Conclusion
 - Secara keseluruhan, bisnis memiliki peluang besar untuk berkembang melalui:
 - Optimalisasi kategori dengan performa rendah
 - Pemanfaatan pola musiman
@@ -78,3 +78,4 @@ Recommendation:
 - Diversifikasi segment pelanggan
 
 Pendekatan berbasis data ini dapat membantu meningkatkan penjualan serta efisiensi strategi bisnis secara menyeluruh.
+---
