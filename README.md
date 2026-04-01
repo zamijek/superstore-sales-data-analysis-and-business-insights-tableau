@@ -19,7 +19,7 @@ Dataset yang digunakan adalah Superstore Dataset yang umum digunakan untuk latih
 - Dashboard Design
 
 ## 📷 Dashboard Preview
-Upload screenshot dashboard kamu di sini
+![Dashboard Preview](images/Superstore.png)
 
 ## 🔍 Key Insights & Recommendations
 💰 Sales Distribution (Category)
